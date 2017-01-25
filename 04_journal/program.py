@@ -47,5 +47,6 @@ def main():
     print_header()
     event_loop()
 
+if __name__ == '__main__':
+    main()
 
-main()
